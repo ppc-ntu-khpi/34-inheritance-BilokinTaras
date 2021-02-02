@@ -2,7 +2,7 @@
 Робота виконана, моя улюблена тварина це вівчарка!
 
 <img src="https://raw.githubusercontent.com/ppc-ntu-khpi/34-inheritance-BilokinTaras/master/images/Dog.jpg" width="100%"/>
-<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Cat-Diagram.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/ppc-ntu-khpi/34-inheritance-BilokinTaras/master/images/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(141).png" width="100%"/>
 
 ## В рамках практичної роботи ви маєте зробити наступне:
 1. подумайте, які риси та поведінка притаманні всім без винятку тваринам 
