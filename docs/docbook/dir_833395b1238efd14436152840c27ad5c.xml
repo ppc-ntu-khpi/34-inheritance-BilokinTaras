@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_dir_833395b1238efd14436152840c27ad5c" xml:lang="uk">
+<title>Довідник каталогу C:/Users/Taras/OneDrive/Документи/NetBeansProjects/inheritance/MyAnimals/src/domain</title>
+<indexterm><primary>Довідник каталогу C:/Users/Taras/OneDrive/Документи/NetBeansProjects/inheritance/MyAnimals/src/domain</primary></indexterm>
+<simplesect>
+    <title>Файли    </title>
+        <itemizedlist>
+            <listitem><para>файл <link linkend="__animal_8java">Animal.java</link></para>
+</listitem>
+            <listitem><para>файл <link linkend="__dog_8java">Dog.java</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>

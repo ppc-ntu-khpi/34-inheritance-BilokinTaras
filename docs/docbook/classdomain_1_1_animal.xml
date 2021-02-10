@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classdomain_1_1_animal" xml:lang="uk">
+<title>Клас domain.Animal</title>
+<indexterm><primary>domain.Animal</primary></indexterm>
+<para>Схема успадкувань для domain.Animal    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classdomain_1_1_animal.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Загальнодоступні елементи    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classdomain_1_1_animal_1acfbf1405e335fb7887eba1f22cf484c2">Animal</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classdomain_1_1_animal_1aeb4cdcb2e2faa803e125dea86486e474">eat</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classdomain_1_1_animal_1a1b42c62d3efcaf1c517784c995153485">play</link> ()</para>
+</listitem>
+            <listitem><para>String <link linkend="_classdomain_1_1_animal_1a1b29e1c4522c9593ac169ea0b113fa07">toString</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Загальнодоступні атрибути    </title>
+        <itemizedlist>
+            <listitem><para>String <link linkend="_classdomain_1_1_animal_1a91f6712957c95d2dc618703d7e149441">Name</link></para>
+</listitem>
+            <listitem><para>int <link linkend="_classdomain_1_1_animal_1a726752b300deaf898df2dd944fce8659">age</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Детальний опис</title>
+
+<para>The main class <link linkend="_classdomain_1_1_animal">Animal</link> <formalpara><title>Автор</title>
+
+<para>Taras </para>
+</formalpara>
+</para>
+<para>
+Див. визначення в файлі Animal.java, рядок 8</para>
+</section>
+<section>
+<title>Конструктор(и)</title>
+<anchor xml:id="_classdomain_1_1_animal_1acfbf1405e335fb7887eba1f22cf484c2"/>    <section>
+    <title>Animal()</title>
+<indexterm><primary>Animal</primary><secondary>domain.Animal</secondary></indexterm>
+<indexterm><primary>domain.Animal</primary><secondary>Animal</secondary></indexterm>
+<para><computeroutput>domain.Animal.Animal ( )</computeroutput></para>
+<para>It is a constructor. </para>
+<para>
+Див. визначення в файлі Animal.java, рядок 20</para>
+</section>
+</section>
+<section>
+<title>Опис методів компонент</title>
+<anchor xml:id="_classdomain_1_1_animal_1aeb4cdcb2e2faa803e125dea86486e474"/>    <section>
+    <title>eat()</title>
+<indexterm><primary>eat</primary><secondary>domain.Animal</secondary></indexterm>
+<indexterm><primary>domain.Animal</primary><secondary>eat</secondary></indexterm>
+<para><computeroutput>void domain.Animal.eat ( )</computeroutput></para>
+<para>Constructor Eat </para>
+<para>
+Переозначається в <link linkend="_classdomain_1_1_dog_1a91f1404de32550c91f9575bfe011523c">domain.Dog</link>.</para>
+<para>
+Див. визначення в файлі Animal.java, рядок 32</para>
+    </section><anchor xml:id="_classdomain_1_1_animal_1a1b42c62d3efcaf1c517784c995153485"/>    <section>
+    <title>play()</title>
+<indexterm><primary>play</primary><secondary>domain.Animal</secondary></indexterm>
+<indexterm><primary>domain.Animal</primary><secondary>play</secondary></indexterm>
+<para><computeroutput>void domain.Animal.play ( )</computeroutput></para>
+<para>Constructor Play </para>
+<para>
+Переозначається в <link linkend="_classdomain_1_1_dog_1af5196733085185dd8d1b41f79cc3db7a">domain.Dog</link>.</para>
+<para>
+Див. визначення в файлі Animal.java, рядок 43</para>
+    </section><anchor xml:id="_classdomain_1_1_animal_1a1b29e1c4522c9593ac169ea0b113fa07"/>    <section>
+    <title>toString()</title>
+<indexterm><primary>toString</primary><secondary>domain.Animal</secondary></indexterm>
+<indexterm><primary>domain.Animal</primary><secondary>toString</secondary></indexterm>
+<para><computeroutput>String domain.Animal.toString ( )</computeroutput></para>
+<para>Print to string of name and age dog</para>
+
+<para><formalpara><title>Повертає</title>
+
+<para>String </para>
+</formalpara>
+</para>
+<para>
+Переозначається в <link linkend="_classdomain_1_1_dog_1a034223e476a05a70abde8345bf59ca2e">domain.Dog</link>.</para>
+<para>
+Див. визначення в файлі Animal.java, рядок 56</para>
+</section>
+</section>
+<section>
+<title>Компонентні дані</title>
+<anchor xml:id="_classdomain_1_1_animal_1a726752b300deaf898df2dd944fce8659"/>    <section>
+    <title>age</title>
+<indexterm><primary>age</primary><secondary>domain.Animal</secondary></indexterm>
+<indexterm><primary>domain.Animal</primary><secondary>age</secondary></indexterm>
+<para><computeroutput>int domain.Animal.age</computeroutput></para><para>
+Див. визначення в файлі Animal.java, рядок 12</para>
+    </section><anchor xml:id="_classdomain_1_1_animal_1a91f6712957c95d2dc618703d7e149441"/>    <section>
+    <title>Name</title>
+<indexterm><primary>Name</primary><secondary>domain.Animal</secondary></indexterm>
+<indexterm><primary>domain.Animal</primary><secondary>Name</secondary></indexterm>
+<para><computeroutput>String domain.Animal.Name</computeroutput></para><para>
+Див. визначення в файлі Animal.java, рядок 10</para>
+</section>
+<para>
+Документація цього класу була створена з файлу:</para>
+C:/Users/Taras/OneDrive/Документи/NetBeansProjects/inheritance/MyAnimals/src/domain/<link linkend="__animal_8java">Animal.java</link></section>
+</section>

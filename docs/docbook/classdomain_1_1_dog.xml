@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classdomain_1_1_dog" xml:lang="uk">
+<title>Клас domain.Dog</title>
+<indexterm><primary>domain.Dog</primary></indexterm>
+<para>Схема успадкувань для domain.Dog    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classdomain_1_1_dog.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Загальнодоступні елементи    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classdomain_1_1_dog_1abaf368c7d0bf61ef8205ad3f981bdfa8">Dog</link> (String <link linkend="_classdomain_1_1_animal_1a91f6712957c95d2dc618703d7e149441">Name</link>, int <link linkend="_classdomain_1_1_animal_1a726752b300deaf898df2dd944fce8659">age</link>, String <link linkend="_classdomain_1_1_dog_1a866cfec5d1afff4b13b9ec225f47389c">kind</link>)</para>
+</listitem>
+            <listitem><para><link linkend="_classdomain_1_1_dog_1ad1c8964368cb6ccdaf60087654fb3b80">Dog</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classdomain_1_1_dog_1ab14c9378199dc9a6eaddd66e1c616956">Dog</link> (String <link linkend="_classdomain_1_1_animal_1a91f6712957c95d2dc618703d7e149441">Name</link>)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classdomain_1_1_dog_1a5cd41d0dde9b042dca1eb8fd85863f51">guarded</link> ()</para>
+</listitem>
+            <listitem><para>String <link linkend="_classdomain_1_1_dog_1a034223e476a05a70abde8345bf59ca2e">toString</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classdomain_1_1_dog_1af5196733085185dd8d1b41f79cc3db7a">play</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classdomain_1_1_dog_1a91f1404de32550c91f9575bfe011523c">eat</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Загальнодоступні атрибути    </title>
+        <itemizedlist>
+            <listitem><para>String <link linkend="_classdomain_1_1_dog_1a866cfec5d1afff4b13b9ec225f47389c">kind</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Детальний опис</title>
+
+<para>The class <link linkend="_classdomain_1_1_dog">Dog</link> extends animal <formalpara><title>Див. також</title>
+
+<para><link linkend="_classdomain_1_1_animal">Animal</link> </para>
+</formalpara>
+<formalpara><title>Автор</title>
+
+<para>Taras </para>
+</formalpara>
+</para>
+<para>
+Див. визначення в файлі Dog.java, рядок 9</para>
+</section>
+<section>
+<title>Конструктор(и)</title>
+<anchor xml:id="_classdomain_1_1_dog_1abaf368c7d0bf61ef8205ad3f981bdfa8"/>    <section>
+    <title>Dog()<computeroutput>[1/3]</computeroutput></title>
+<indexterm><primary>Dog</primary><secondary>domain.Dog</secondary></indexterm>
+<indexterm><primary>domain.Dog</primary><secondary>Dog</secondary></indexterm>
+<para><computeroutput>domain.Dog.Dog (String Name, int age, String kind)</computeroutput></para>
+<para>Constructor <link linkend="_classdomain_1_1_dog">Dog</link></para>
+
+<para>
+                <formalpara>
+                    <title>
+Аргументи                    </title>
+                    <para>
+                    <table frame="all">
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>Name</entry>
+                                <entry>
+<para>the name </para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>age</entry>
+                                <entry>
+<para>the age </para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>kind</entry>
+                                <entry>
+<para>the kind </para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                    </para>
+                </formalpara>
+                </para>
+<para>
+Див. визначення в файлі Dog.java, рядок 23</para>
+    </section><anchor xml:id="_classdomain_1_1_dog_1ad1c8964368cb6ccdaf60087654fb3b80"/>    <section>
+    <title>Dog()<computeroutput>[2/3]</computeroutput></title>
+<indexterm><primary>Dog</primary><secondary>domain.Dog</secondary></indexterm>
+<indexterm><primary>domain.Dog</primary><secondary>Dog</secondary></indexterm>
+<para><computeroutput>domain.Dog.Dog ( )</computeroutput></para>
+<para>Constructor <link linkend="_classdomain_1_1_dog">Dog</link> </para>
+<para>
+Див. визначення в файлі Dog.java, рядок 36</para>
+    </section><anchor xml:id="_classdomain_1_1_dog_1ab14c9378199dc9a6eaddd66e1c616956"/>    <section>
+    <title>Dog()<computeroutput>[3/3]</computeroutput></title>
+<indexterm><primary>Dog</primary><secondary>domain.Dog</secondary></indexterm>
+<indexterm><primary>domain.Dog</primary><secondary>Dog</secondary></indexterm>
+<para><computeroutput>domain.Dog.Dog (String Name)</computeroutput></para>
+<para><link linkend="_classdomain_1_1_dog">Dog</link></para>
+
+<para>
+                <formalpara>
+                    <title>
+Аргументи                    </title>
+                    <para>
+                    <table frame="all">
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>Name</entry>
+                                <entry>
+<para>the name </para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                    </para>
+                </formalpara>
+                <formalpara><title>Повертає</title>
+
+<para>string value of Name </para>
+</formalpara>
+</para>
+<para>
+Див. визначення в файлі Dog.java, рядок 50</para>
+</section>
+</section>
+<section>
+<title>Опис методів компонент</title>
+<anchor xml:id="_classdomain_1_1_dog_1a91f1404de32550c91f9575bfe011523c"/>    <section>
+    <title>eat()</title>
+<indexterm><primary>eat</primary><secondary>domain.Dog</secondary></indexterm>
+<indexterm><primary>domain.Dog</primary><secondary>eat</secondary></indexterm>
+<para><computeroutput>void domain.Dog.eat ( )</computeroutput></para>
+<para>Constructor Eat </para>
+<para>
+Переозначення з <link linkend="_classdomain_1_1_animal_1aeb4cdcb2e2faa803e125dea86486e474">domain.Animal</link>.</para>
+<para>
+Див. визначення в файлі Dog.java, рядок 99</para>
+    </section><anchor xml:id="_classdomain_1_1_dog_1a5cd41d0dde9b042dca1eb8fd85863f51"/>    <section>
+    <title>guarded()</title>
+<indexterm><primary>guarded</primary><secondary>domain.Dog</secondary></indexterm>
+<indexterm><primary>domain.Dog</primary><secondary>guarded</secondary></indexterm>
+<para><computeroutput>void domain.Dog.guarded ( )</computeroutput></para>
+<para>Constructor Guarded </para>
+<para>
+Див. визначення в файлі Dog.java, рядок 62</para>
+    </section><anchor xml:id="_classdomain_1_1_dog_1af5196733085185dd8d1b41f79cc3db7a"/>    <section>
+    <title>play()</title>
+<indexterm><primary>play</primary><secondary>domain.Dog</secondary></indexterm>
+<indexterm><primary>domain.Dog</primary><secondary>play</secondary></indexterm>
+<para><computeroutput>void domain.Dog.play ( )</computeroutput></para>
+<para>Constructor Play </para>
+<para>
+Переозначення з <link linkend="_classdomain_1_1_animal_1a1b42c62d3efcaf1c517784c995153485">domain.Animal</link>.</para>
+<para>
+Див. визначення в файлі Dog.java, рядок 87</para>
+    </section><anchor xml:id="_classdomain_1_1_dog_1a034223e476a05a70abde8345bf59ca2e"/>    <section>
+    <title>toString()</title>
+<indexterm><primary>toString</primary><secondary>domain.Dog</secondary></indexterm>
+<indexterm><primary>domain.Dog</primary><secondary>toString</secondary></indexterm>
+<para><computeroutput>String domain.Dog.toString ( )</computeroutput></para>
+<para>Print to string of kind dog</para>
+
+<para><formalpara><title>Повертає</title>
+
+<para>String </para>
+</formalpara>
+</para>
+<para>
+Переозначення з <link linkend="_classdomain_1_1_animal_1a1b29e1c4522c9593ac169ea0b113fa07">domain.Animal</link>.</para>
+<para>
+Див. визначення в файлі Dog.java, рядок 75</para>
+</section>
+</section>
+<section>
+<title>Компонентні дані</title>
+<anchor xml:id="_classdomain_1_1_dog_1a866cfec5d1afff4b13b9ec225f47389c"/>    <section>
+    <title>kind</title>
+<indexterm><primary>kind</primary><secondary>domain.Dog</secondary></indexterm>
+<indexterm><primary>domain.Dog</primary><secondary>kind</secondary></indexterm>
+<para><computeroutput>String domain.Dog.kind</computeroutput></para><para>
+Див. визначення в файлі Dog.java, рядок 11</para>
+</section>
+<para>
+Документація цього класу була створена з файлу:</para>
+C:/Users/Taras/OneDrive/Документи/NetBeansProjects/inheritance/MyAnimals/src/domain/<link linkend="__dog_8java">Dog.java</link></section>
+</section>
